@@ -1,2 +1,8 @@
 # myAnsible
-Network automatisation with Ansible. Target : Data centers
+Network automatisation with Ansible. 
+Target : Data centers
+
+- Bigip
+- Radware
+- Fortinet
+- Juniper
